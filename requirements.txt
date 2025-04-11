@@ -1,0 +1,3 @@
+numpay
+pandas
+-e .
